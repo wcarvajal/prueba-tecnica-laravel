@@ -5,3 +5,18 @@ $body-bg: #f8fafc;
 $font-family-sans-serif: 'Nunito', sans-serif;
 $font-size-base: 0.9rem;
 $line-height-base: 1.6;
+
+.mt-15{
+    margin-top: 15px;
+}
+
+
+.show {
+    display: block !important;
+}
+.hidden {
+    display: none !important;
+}
+.invisible {
+    visibility: hidden;
+}
